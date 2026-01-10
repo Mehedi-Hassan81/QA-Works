@@ -1,0 +1,122 @@
+{
+	"info": {
+		"_postman_id": "94475217-6fb6-4bf2-a509-ecb55cf7f107",
+		"name": "E commerce Shoe store",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "48407869",
+		"_collection_link": "https://mehedihassanshimul81-2864923.postman.co/workspace/Mehedi-Hassan-Shimul's-Workspac~58a85a66-1b5d-46bc-8e3a-86afabbf476d/collection/48407869-94475217-6fb6-4bf2-a509-ecb55cf7f107?action=share&source=collection_link&creator=48407869"
+	},
+	"item": [
+		{
+			"name": "Search Product",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://demo.evershop.io/search?keyword=nike+react",
+					"protocol": "https",
+					"host": [
+						"demo",
+						"evershop",
+						"io"
+					],
+					"path": [
+						"search"
+					],
+					"query": [
+						{
+							"key": "keyword",
+							"value": "nike+react",
+							"description": "Search 'nike react'"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getSpecificProduct",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://demo.evershop.io/nike-react-infinity-run-flyknit-171?",
+					"protocol": "https",
+					"host": [
+						"demo",
+						"evershop",
+						"io"
+					],
+					"path": [
+						"nike-react-infinity-run-flyknit-171"
+					],
+					"query": [
+						{
+							"key": null,
+							"value": null,
+							"description": "showed specific product"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "addToCart",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://demo.evershop.io/nike-react-infinity-run-flyknit-171?size=6&color=19",
+					"protocol": "https",
+					"host": [
+						"demo",
+						"evershop",
+						"io"
+					],
+					"path": [
+						"nike-react-infinity-run-flyknit-171"
+					],
+					"query": [
+						{
+							"key": "size",
+							"value": "6"
+						},
+						{
+							"key": "color",
+							"value": "19"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "displayCart",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://demo.evershop.io/cart?",
+					"protocol": "https",
+					"host": [
+						"demo",
+						"evershop",
+						"io"
+					],
+					"path": [
+						"cart"
+					],
+					"query": [
+						{
+							"key": null,
+							"value": null,
+							"description": "Cart displays added product successfully"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
