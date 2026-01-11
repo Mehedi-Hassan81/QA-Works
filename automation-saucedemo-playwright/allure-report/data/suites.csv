@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jan 11 15:07:42 UTC 2026","Sun Jan 11 15:07:43 UTC 2026","579","saucedemo_tests","test_saucedemo","TestSauceDemo","","","Q1: Verify locked out user error message","Test login with locked_out_user and verify the error message"
+"passed","Sun Jan 11 15:08:29 UTC 2026","Sun Jan 11 15:08:54 UTC 2026","25017","saucedemo_tests","test_saucedemo","TestSauceDemo","","","Q3: Performance glitch user purchase with filtering","Login with performance_glitch_user, filter products, and complete purchase"
+"passed","Sun Jan 11 15:08:13 UTC 2026","Sun Jan 11 15:08:20 UTC 2026","7394","saucedemo_tests","test_saucedemo","TestSauceDemo","","","Q2: Standard user complete purchase journey","Login with standard_user, add items, verify checkout and complete purchase"
