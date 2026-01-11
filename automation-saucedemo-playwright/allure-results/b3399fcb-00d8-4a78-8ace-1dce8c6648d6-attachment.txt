@@ -1,2 +1,0 @@
-Product: Test.allTheThings() T-Shirt (Red)
-Price: $15.99

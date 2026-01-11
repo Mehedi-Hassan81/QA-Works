@@ -1,2 +1,0 @@
-Expected Total: $15.99
-Actual Total: $15.99

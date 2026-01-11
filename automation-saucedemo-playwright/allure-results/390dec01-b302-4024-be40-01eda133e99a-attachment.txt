@@ -1,2 +1,0 @@
-Expected Total: $55.97
-Actual Total: $55.97
