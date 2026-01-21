@@ -506,6 +506,4 @@ Planned improvements:
 - [ ] Create custom Allure report themes
 
 ---
-ade with ❤️ for Module 15 Assignment**
-
 </div>
