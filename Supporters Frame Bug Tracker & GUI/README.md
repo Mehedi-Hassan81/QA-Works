@@ -2,9 +2,7 @@
 
 A lightweight desktop tool built in Python + Tkinter to view, add, edit, and visualize bug reports found during manual QA testing of https://supportersframe.com/.
 
-<div>
-  <img src="https://drive.google.com/file/d/1J2nocaUSfx_b2C0T165Ig4plyIPI2tZo/view?usp=drive_link">
-</div>
+![Bug Report Viewer Screenshot](https://drive.google.com/uc?export=view&id=1J2nocaUSfx_b2C0T165Ig4plyIPI2tZo)
   
 
 ## Features
