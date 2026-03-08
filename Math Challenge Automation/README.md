@@ -10,11 +10,9 @@ Automate **MathSpeedTest.com** to solve 20 math questions, submit the test, and 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Code Explanation](#code-explanation)
 - [Project Structure](#project-structure)
 - [Troubleshooting](#troubleshooting)
 - [Notes](#notes)
-- [License](#license)
 
 ---
 
